@@ -1,21 +1,25 @@
 # codepath-prework
 
 
-# Prework - *Name of App Here*
+# Prework - *Color Picker*
 
 Submitted by: **Erin Novoa**
 
-**Name of your app** is an app that... changes background color of mobile app 
+**Color Picker** is an app that allows you to randomly change the background color of the app with just the click of a button.
 
-Time spent: **X** hours spent in total
+Time spent: **1.5** hours spent in total
 
 ## Required Features
 
 The following **required** functionality is completed:
 
-- [ ] Users are see a screen with three labels and a button
-- [ ] Tapping the button changes the screen color to a random color
- 
+- [x] Users are see a screen with three labels and a button
+- [x] Tapping the button changes the screen color to a random color
+
+Additional Features Added On:
+- [x] Improved the UI by changing the font style of the labels
+- [x] Added an additional button to change the text color of labels back and forth between black and white that way there is better contrast between the background and foreground colors for user accessibility and because it is more visually appealing.
+
 ## Video Walkthrough
 
 Here is a reminder on how to embed Loom videos on GitHub. Feel free to remove this reminder once you upload your README. 
@@ -42,11 +46,13 @@ App #4: Goodreads
 Able to track progress of book while reading it based on the page # or percentage of completion
 Being able to keep inventory of books while also connecting with friends to see what they are currently reading.
 
-Think of an app idea that you would like to build. It can be a new idea or an improvement on an existing app. Write a short paragraph describing the app and the features you would like to implement
+- [x] Think of an app idea that you would like to build. It can be a new idea or an improvement on an existing app. Write a short paragraph describing the app and the features you would like to implement
+
+I know there are already a lot of financial tracking apps out there, but I have started designing one for fun. I think it would be really cool to build it out and implement data visualization as well as machine learning to suggest to users ways to save money based on their current spending habits, etc. 
 
 ## Notes
 
-Describe any challenges encountered while building the app.
+Initial challenge was just figuring out the functionality to change the label text color between black and white, but I was able to figure it out pretty quickly.
 
 ## License
 
