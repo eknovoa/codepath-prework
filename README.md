@@ -24,6 +24,26 @@ Here is a reminder on how to embed Loom videos on GitHub. Feel free to remove th
 
 ## App Brainstorming (Step 4)
 
+App #1: Notion
+This is my go to app for all organization and tracking goals.
+I like that it is a clean slate and you are able to customize pages in both design and functionality in order to meet your needs.
+Able to insert blocks of code and choose programming languages is a great feature especially with being a software engineering student.
+
+App #2: Duolingo
+Ability to make learning languages fun and the illustrations are really well done.
+I like the monthly challenges they do to encourage you to practice everyday.
+
+
+App #3: Libby
+Being able to reserve and rent books onto my kindle from the public library.
+Having access to audiobooks as well and being able to play them through app on CarPlay while driving on roadtrips or running errands.
+
+App #4: Goodreads
+Able to track progress of book while reading it based on the page # or percentage of completion
+Being able to keep inventory of books while also connecting with friends to see what they are currently reading.
+
+Think of an app idea that you would like to build. It can be a new idea or an improvement on an existing app. Write a short paragraph describing the app and the features you would like to implement
+
 ## Notes
 
 Describe any challenges encountered while building the app.
