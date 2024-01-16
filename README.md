@@ -22,9 +22,15 @@ Additional Features Added On:
 
 ## Video Walkthrough
 
-Here is a reminder on how to embed Loom videos on GitHub. Feel free to remove this reminder once you upload your README. 
+Here is a link to the video walkthrough I created via Loom.
 
-[Guide]](https://www.youtube.com/watch?v=GA92eKlYio4) .
+<div>
+    <a href="https://www.loom.com/share/7baf3d50a1af4683ae04a2c89d47fe1f">
+    </a>
+    <a href="https://www.loom.com/share/7baf3d50a1af4683ae04a2c89d47fe1f">
+      <img style="max-width:300px;" src="https://cdn.loom.com/sessions/thumbnails/7baf3d50a1af4683ae04a2c89d47fe1f-with-play.gif">
+    </a>
+  </div>
 
 ## App Brainstorming (Step 4)
 
