@@ -7,7 +7,7 @@ Submitted by: **Erin Novoa**
 
 **Color Picker** is an app that allows you to randomly change the background color of the app with just the click of a button.
 
-Time spent: **1.5** hours spent in total
+Time spent: **2** hours spent in total
 
 ## Required Features
 
